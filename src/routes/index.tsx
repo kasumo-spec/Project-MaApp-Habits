@@ -6,7 +6,7 @@ import RegisterPage from "../pages/Register";
 import Login from "../pages/Login";
 import GroupsPage from "../pages/Groups";
 import AllGroups from "../pages/AllGroups";
-import Dashboard from "../pages/Dashboard/index";
+import Dashboard from "../pages/Dashboard";
 import Home from "../pages/Home";
 
 const Routes = () => {

@@ -11,7 +11,7 @@ import {
   ButtonContentModal,
   ContentInfoModal,
 } from "./style";
-import { InfoButton, DeleteButton, StyleButtonDiv } from "../../Groups/style";
+import { InfoButton, DeleteButton, StyleButtonDiv } from "../style";
 import InfoOutlinedIcon from "@material-ui/icons/InfoOutlined";
 import DeleteOutlineTwoToneIcon from "@material-ui/icons/DeleteOutlineTwoTone";
 import api from "../../../services/api";
